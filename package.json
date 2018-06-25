@@ -1,0 +1,12 @@
+{
+  "name": "create_acronym",
+  "version": "1.0.0",
+  "description": "A simple package to transform a sentence to an acronyms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["acronym", "acronyms"],
+  "author": "SK",
+  "license": "ISC"
+}
